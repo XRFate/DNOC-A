@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "outDir": "build",
+      "target": "es2022",
+      "module": "commonjs",
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "skipLibCheck": true,
+    },
+    "include": [
+        "src/**/*.ts"  // TypeScript 源码文件的匹配模式
+      ],
+  }
+  
